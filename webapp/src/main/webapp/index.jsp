@@ -1,7 +1,7 @@
 <h1> *************************** </h1>
 <h1> Hello, Welcome to WebOps & Build Teams !!! </h1>
-<h1> Glad to  <ee you all here /h1>
-<h1> Happy Learing </h1>
+<h1> Glad to see you all here /h1>
+<h1> Dreams programmed for you here </h1>
 <h1> Happy Days </h1>
 <h1> By </h1>
 <h1> RAMESH ANEGONDI </h1>
